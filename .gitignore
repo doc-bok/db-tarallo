@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+.vs/
+.DS_Store
+Thumbs.db
+/mariadb
+/data
+.idea/
+source/.env
+source/node_modules
+source/vendor
+source/composer.lock
+source/boards/
+source/images/
+source/temp/
+source/.env.test
